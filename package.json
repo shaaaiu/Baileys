@@ -7,9 +7,9 @@
     "js-whatsapp", "whatsapp-api", "whatsapp-web", "whatsapp-bot",
     "automation", "multi-device"
   ],
-  "homepage": "https://github.com/nstar-y/bail",
+  "homepage": "https://github.com/RyuuXiaoo/RyuuXiao-Beta",
   "repository": {
-    "url": "git+ssh://git@github.com/nstar-y/bail.git"
+    "url": "git+ssh://git@github.com:RyuuXiaoo/RyuuXiao-Beta.git"
   },
   "license": "MIT",
   "author": "Adhiraj Singh",
@@ -48,7 +48,7 @@
     "cheerio": "^1.1.2",
     "jimp": "^0.16.1",
     "libphonenumber-js": "^1.10.20",
-    "libsignal": "github:nstar-y/libsignal",
+    "libsignal": "github:RyuuXiaoo/libsignal",
     "lodash": "^4.17.21",
     "music-metadata": "^7.12.3",
     "pino": "^9.6",
