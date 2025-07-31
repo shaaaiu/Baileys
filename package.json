@@ -9,7 +9,7 @@
   ],
   "homepage": "https://github.com/RyuuXiaoo/RyuuXiao-Beta",
   "repository": {
-    "url": "git+ssh://git@github.com:RyuuXiaoo/RyuuXiao-Beta.git"
+    "url": "https://github.com/RyuuXiaoo/RyuuXiao-Beta.git"
   },
   "license": "MIT",
   "author": "Adhiraj Singh",
