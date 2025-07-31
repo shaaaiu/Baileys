@@ -1,5 +1,5 @@
 {
-  "name": "RyuuXiao-Beta",
+  "name": "baileys-mod",
   "version": "6.8.5",
   "description": "Custom Baileys WhatsApp API",
   "keywords": [
@@ -7,9 +7,9 @@
     "js-whatsapp", "whatsapp-api", "whatsapp-web", "whatsapp-bot",
     "automation", "multi-device"
   ],
-  "homepage": "https://github.com/RyuuXiaoo/RyuuXiao-Beta",
+  "homepage": "https://github.com/nstar-y/bail",
   "repository": {
-    "url": "https://github.com/RyuuXiaoo/RyuuXiao-Beta.git"
+    "url": "git+ssh://git@github.com/nstar-y/bail.git"
   },
   "license": "MIT",
   "author": "Adhiraj Singh",
@@ -48,7 +48,7 @@
     "cheerio": "^1.1.2",
     "jimp": "^0.16.1",
     "libphonenumber-js": "^1.10.20",
-    "libsignal": "github:RyuuXiaoo/libsignal",
+    "libsignal": "github:nstar-y/libsignal",
     "lodash": "^4.17.21",
     "music-metadata": "^7.12.3",
     "pino": "^9.6",
