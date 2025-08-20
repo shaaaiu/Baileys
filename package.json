@@ -1,5 +1,5 @@
 {
-  "name": "Ryuu-Xiao",
+  "name": "Kropa-Baileys",
   "version": "6.8.5",
   "description": "baileys whatsapp-api",
     "keywords": [
@@ -7,9 +7,9 @@
     "js-whatsapp", "whatsapp-api", "whatsapp-web", "whatsapp-bot",
     "automation", "multi-device"
   ],
-  "homepage": "https://github.com/RyuuXiaoo/RyuuXiao-Beta",
+  "homepage": "https://github.com/krispedi/Kropa-Baileys",
   "repository": {
-    "url": "https://github.com/RyuuXiaoo/RyuuXiao-Beta"
+    "url": "https://github.com/krispedi/Kropa-Baileys"
   },
   "license": "MIT",
   "author": "Ryuu-Xiao",
@@ -50,6 +50,6 @@
     "lib": "lib"
   },
   "bugs": {
-    "url": "https://github.com/RyuuXiaoo/RyuuXiao-Beta/issues"
+    "url": "https://github.com/krispedi/Kropa-Baileys/issues"
   }
 }
